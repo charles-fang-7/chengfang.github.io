@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cheng Fang"
-  avatar           : "images/C.F.png"
+  avatar           : "https://github.com/charles-fang-7/chengfang.github.io/blob/master/images/C.F.png"
   bio              : "Prospective PhD Applicant in 2020"
   location         : "Shanghai, China"
   employer         :
