@@ -16,10 +16,9 @@ Education
 
 Research experience
 ======
-* Summer 2019: Research Assistant
-  * Shanghai Jiao Tong University
-  * Supervisor: Professor Peng ZHANG
-  * Description: Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material
+<span style="float: left;">Summer 2019: Research Assistant</span>
+<span style="float: right;">Shanghai Jiao Tong University</span>  
+  * Description: Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material <span style="float: right;">Supervisor: Professor Peng ZHANG</span>
   
   1. Ordered mesoporous MoP was prepared by hard templates, KIT-6, with wetness impregnation-calcination method. The hydrogen reduction of precursor and remove of the template are also necessary for the preparation. 
   2. X-ray diffraction was carried out and pattern showed that besides the sharp peaks for MoP, there was the presence of broad peaks for phosphomolybdate. Linear sweep voltammetry (LSV) measurement was performed in a 0.5 M H2SO4, using a saturated silver chloride electrode (SCE) as the reference electrode. TEM measurements were carried out to check the mesoporous structure of the sample. 
@@ -39,11 +38,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
