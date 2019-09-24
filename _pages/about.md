@@ -8,22 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate majoring in Materials Science and Engineering at **Shanghai Jiao Tong University** (Shanghai China), seeking for PhD position for 2020 Fall in **Materials Science & Engineering**. Since my junior year, I am priviledged to be supervised by $\color{#FF7D00}{Professor}$ $\color{#FF7D00}{Peng}$ $\color{#FF7D00}{ZHANG}$ . My recent work in Zhang's Lab focused on **Photoelectrochemical Energy Conversion System** combined with mesoporous catalytic materials. I have recently joined [Dr. Hall's Lab](https://engineering.jhu.edu/hall "Dr. Hall's Lab") at Johns Hopkins Univeristy as a visiting student led by Dr. A. Shoji Hall.
+I am a senior undergraduate majoring in Materials Science and Engineering at **Shanghai Jiao Tong University** (Shanghai China), seeking for PhD position for 2020 Fall in **Materials Science & Engineering**. Since my junior year, I am priviledged to be supervised by $\color{#FF7D00}{Professor}$ $\color{#FF7D00}{Peng}$ $\color{#FF7D00}{ZHANG}$ . My recent work in Zhang's Lab focused on **Photoelectrochemical Energy Conversion System** combined with mesoporous catalytic materials. I have recently joined [Dr. Hall's Lab](https://engineering.jhu.edu/hall "Dr. Hall's Lab") at Johns Hopkins Univeristy as a visiting student led by [A. Shoji Hall](https://scholar.google.com.hk/citations?user=L98xBPAAAAAJ&hl=zh-CN&oi=ao).
 
 # **Shanghai Jiao Tong University**  
-$$\Undergraduate Student\tag{Sept 2016 - July 2020}$$  
+*Undergraduate Student*                       $$\tag{Sept 2016 - July 2020}$$  
 **Materials Science and Engineering**  
 **GPA**: 3.61/4, or 86/100  
-    
-   September 2016 - July 2020 (Expected)
-  
-
-
-
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
