@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Cheng FANG"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,19 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Assistant
+  * Shanghai Jiao Tong University
+  * Supervisor: Professor Peng ZHANG
+  * Description: Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material
+    *Ordered mesoporous MoP was prepared by hard templates, KIT-6, with wetness impregnation-calcination method. The hydrogen reduction of precursor and remove of the template are also necessary for the preparation. 
+    *X-ray diffraction was carried out and pattern showed that besides the sharp peaks for MoP, there was the presence of broad peaks for phosphomolybdate. Linear sweep voltammetry (LSV) measurement was performed in a 0.5 M H2SO4, using a saturated silver chloride electrode (SCE) as the reference electrode. TEM measurements were carried out to check the mesoporous structure of the sample. 
+    *I am now trying to optimize the annealing condition to get phosphomolybdate fully reduced to MoP. 
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2018: Research Assistant
+  * Shanghai Jiao Tong University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
