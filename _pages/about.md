@@ -12,6 +12,7 @@ I am a senior undergraduate majoring in Materials Science and Engineering at **S
 
 # **Shanghai Jiao Tong University**  
 *Undergraduate Student*
+=====
   
   **Materials Science and Engineering**  
     **GPA**: 3.61/4, or 86/100  
