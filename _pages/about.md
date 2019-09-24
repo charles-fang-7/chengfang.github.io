@@ -10,8 +10,8 @@ redirect_from:
 
 I am a senior undergraduate majoring in Materials Science and Engineering at **Shanghai Jiao Tong University** (Shanghai China), seeking for PhD position for 2020 Fall in **Materials Science & Engineering**. Since my junior year, I am priviledged to be supervised by $\color{#FF7D00}{Professor}$ $\color{#FF7D00}{Peng}$ $\color{#FF7D00}{ZHANG}$ . My recent work in Zhang's Lab focused on **Photoelectrochemical Energy Conversion**.
 
-# **Shanghai Jiao Tong University** <p align="right"> September 2016 - July 2020 (Expected)</p>  
-*Undergraduate Student*
+# **Shanghai Jiao Tong University**  
+*Undergraduate Student*  <p align="right"> September 2016 - July 2020 (Expected)</p>
   
   **Materials Science and Engineering**  
     **GPA**: 3.61/4, or 86/100  
