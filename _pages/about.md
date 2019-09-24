@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate majoring in Materials Science and Engineering at Shanghai Jiao Tong University (Shanghai, China), seeking for PhD position for 2020 Fall in **Materials Science & Engineering**. Since my junior year, I am priviledged to be supervised by <span style="color:#A4D3EE">**Professor Peng Zhang**</span>. My recent work in Zhang's Lab focused on **Photoelectrochemical Energy Conversion System** combined with mesoporous catalytic materials. I have recently joined <span style="color:#A4D3EE">[Dr. Hall's Lab](https://engineering.jhu.edu/hall "Dr. Hall's Lab")</span> at Johns Hopkins Univeristy as a visiting student led by <span style="color:#A4D3EE">[A. Shoji Hall](https://scholar.google.com.hk/citations?user=L98xBPAAAAAJ&hl=zh-CN&oi=ao)</span>.
+I am a senior undergraduate majoring in Materials Science and Engineering at Shanghai Jiao Tong University (Shanghai, China), seeking for PhD position for 2020 Fall in **Materials Science & Engineering**. Since my junior year, I am priviledged to be supervised by <span style="color:#68ABC5">**Professor Peng Zhang**</span>. My recent work in Zhang's Lab focused on **Photoelectrochemical Energy Conversion System** combined with mesoporous catalytic materials. I have recently joined <span style="color:#68ABC5">[Dr. Hall's Lab](https://engineering.jhu.edu/hall "Dr. Hall's Lab")</span> at Johns Hopkins Univeristy as a visiting student led by <span style="color:#68ABC5">[A. Shoji Hall](https://scholar.google.com.hk/citations?user=L98xBPAAAAAJ&hl=zh-CN&oi=ao)</span>.
 
 ## **Shanghai Jiao Tong University**  
  <span style="float: left;">*Undergraduate Student*</span>  <span style="float: right;">Sept 2016 - July 2020 (Expected)</span>   
