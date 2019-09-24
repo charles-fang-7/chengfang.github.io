@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cheng FANG"
+title: " <span style="text-align:center;">Cheng FANG</span>"
 permalink: /cv/
 author_profile: true
 redirect_from:
