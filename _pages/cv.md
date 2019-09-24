@@ -20,10 +20,9 @@ Research experiences
 <span style="float: left; ">*Shanghai Jiao Tong University*</span>
 <span style="float: right;">*Supervisor: Professor Peng ZHANG*</span>  
   Description: Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material  
-<span style="color: gray;">  
-  1. Ordered mesoporous MoP was prepared by hard templates, KIT-6, with wetness impregnation-calcination method. The hydrogen reduction of precursor and remove of the template are also necessary for the preparation. 
+  <span style="color: gray;"> 1. Ordered mesoporous MoP was prepared by hard templates, KIT-6, with wetness impregnation-calcination method. The hydrogen reduction of precursor and remove of the template are also necessary for the preparation.<span style="color: gray;">   
   2. X-ray diffraction was carried out and pattern showed that besides the sharp peaks for MoP, there was the presence of broad peaks for phosphomolybdate. Linear sweep voltammetry (LSV) measurement was performed in a 0.5 M H2SO4, using a saturated silver chloride electrode (SCE) as the reference electrode. TEM measurements were carried out to check the mesoporous structure of the sample. 
-  3. I am now trying to optimize the annealing condition to get phosphomolybdate fully reduced to MoP.</span>
+  3. I am now trying to optimize the annealing condition to get phosphomolybdate fully reduced to MoP.
 
 * Fall 2018: Research Assistant
   * Shanghai Jiao Tong University
