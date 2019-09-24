@@ -12,6 +12,7 @@ I am a senior undergraduate majoring in Materials Science and Engineering at **S
 
 # **Shanghai Jiao Tong University**  
 <p align="right">September 2016 - July 2020 (Expected)</p>
+$$\sum_{i=1}^n a_i=0$$
 *Undergraduate Student*  
 **Materials Science and Engineering**  
 **GPA**: 3.61/4, or 86/100  
@@ -19,14 +20,6 @@ I am a senior undergraduate majoring in Materials Science and Engineering at **S
    September 2016 - July 2020 (Expected)
   
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
 
