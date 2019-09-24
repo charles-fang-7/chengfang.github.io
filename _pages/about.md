@@ -16,7 +16,7 @@ I am a senior undergraduate majoring in Materials Science and Engineering at **S
   **Materials Science and Engineering**  
     **GPA**: 3.61/4, or 86/100  
     
-   <font color=#FF7D00 >Shanghai, China</font>  
+   <font color=#FF7D00>Shanghai, China</font>  
     September 2016 - July 2020 (Expected)
   
 
