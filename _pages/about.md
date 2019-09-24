@@ -12,5 +12,6 @@ I am a senior undergraduate majoring in Materials Science and Engineering at Sha
 
 ## **Shanghai Jiao Tong University**  
  <span style="float: left;">*Undergraduate Student*</span>  <span style="float: right;">Sept 2016 - July 2020 (Expected)</span>   
+ 
 **Materials Science and Engineering** - ‘Hsu Tzuyao’ Honor Class  
 **GPA**: 3.61/4, or 86/100  
