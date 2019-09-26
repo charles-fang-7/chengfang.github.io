@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-  [:arrows_counterclockwise: Download my latest Curriculum Vitae](https://github.com/charles-fang-7/chengfang.resume/blob/master/files/CV-Cheng-0926.pdf)
+  [:arrows_counterclockwise: Download my latest Curriculum Vitae](files/CV-Cheng-0926.pdf)
 
 # Education
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
