@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+  [:arrows_counterclockwise: Download my latest Curriculum Vitae](https://github.com/charles-fang-7/chengfang.resume/blob/master/files/CV-Cheng-0926.pdf)
+
 # Education
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
 
@@ -50,6 +52,6 @@ redirect_from:
 # Skills 
 * **Experimental skills:** XRD analysis (proficient), SEM & TEM analysis (okay) 
 * **Computer Skills:** Word, Excel, PPT and Origin (proficient); Adobe Photoshop, Python, Matlab (okay).
-* **English Standard Test:** TOEFL 100 *（Reading 27, Listening 27, Speaking 22, Writting 24)*
+* **English Standard Test:** TOEFL 100 *(Reading 27, Listening 27, Speaking 22, Writting 24)*
   
 
