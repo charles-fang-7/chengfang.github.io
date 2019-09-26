@@ -20,6 +20,7 @@ Research experiences
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
 <span style="float: right; ">March 2019 - Present</span>   
   
+  123
   1. Nano casting was adopted to prepare mesoporous MoP, by using hard templates KIT-6. 
   2. Characterized the product by X-ray diffraction and pattern showed that besides the sharp peaks for MoP. Linear sweep voltammetry (LSV) measurement was performed in a 0.5 M H2SO4 and the result indicated the better electrocatalytic performance with a large current of mesoporous MoP, much larger (about 99 times) than that of bulk structure. TEM measurements were carried out to confirm the mesoporous structure of the sample. 
   3. Optimized the annealing condition to get phosphomolybdate fully reduced to MoP: controled the H2 flow velocity and figured out the proper temperature.
@@ -28,6 +29,7 @@ Research experiences
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
 <span style="float: right; ">October 2018 - January 2019</span>  
 
+  123
   1. Prepared morphology-controlled nanocubes via hydrothermal process, oleic acid as the surfactant.  
   2. Nanocubes with side length of 300nm were synthesized and perform a uniform dispersity in toluene. Due to the capillary effect, these nanocubes can self-assemble on the FTO by the dipping process.  
   3. Analyzed nanocube products via XRD and SEM, which indicated the pure NBT product.  
