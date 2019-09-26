@@ -3,19 +3,12 @@ layout: archive
 title: "Cheng FANG"
 permalink: /cv/
 author_profile: true
-paperurl: 'http://charles-fang-7.github.io/files/CV-Cheng-7.pdf'
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-{% for post in site.cv reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-  [:arrows_counterclockwise: Download my latest Curriculum Vitae](http://charles-fang-7.github.io/files/CV-Cheng-0926.pdf)  
 
 # Education
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
