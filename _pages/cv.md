@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
 
 
 # Research experiences
-======
 * **Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material**, *supervised by [Professor Peng ZHANG](http://en.smse.sjtu.edu.cn/people/detail.aspx?id=102&cid=72057594037927936)*  
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
 <span style="float: right; ">March 2019 - Present</span>  
@@ -43,7 +41,6 @@ redirect_from:
   
   
 # Leadership and Activities
-======
 * **SJTU Inspiration Forum Committee** | *Deputy Director in HR Center*
 <span style="float: right; ">October 2016 - Decenmber 2018</span>  
   
@@ -51,9 +48,8 @@ redirect_from:
 
   
 # Skills 
-======
 * **Experimental skills:** XRD analysis (proficient), SEM & TEM analysis (okay) 
 * **Computer Skills:** Word, Excel, PPT and Origin (proficient); Adobe Photoshop, Python, Matlab (okay).
-* **English Standard Test:** TOEFL 100 *（
+* **English Standard Test:** TOEFL 100 *（Reading 27, Listening 27, Speaking 22, Writting 24)*
   
 
