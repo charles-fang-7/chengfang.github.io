@@ -33,7 +33,7 @@ Research experiences
   3. Analyzed nanocube products via XRD and SEM, which indicated the pure NBT product.  
   4. Via piezoelectric /photoelectric catalysis process (to degrade Rhodamine solution), the material offered good catalytic performance and Rhodamine gets a ~95% degradation after a 3-hour-experiment. The dielectric constant was about 300.
   
-* **The Behavior of CNT/Al Composites in Salt-spray Corrosion Test**, *supervised by [Researcher G.L. Fan](http://en.smse.sjtu.edu.cn/people/detail.aspx?id=43&cid=72057594037927936)*
+* **The Behavior of CNT/Al Composites in Salt-spray Corrosion Test**, *supervised by [Researcher G.L. Fan](http://en.smse.sjtu.edu.cn/people/detail.aspx?id=43&cid=72057594037927936)*  
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
 <span style="float: right; ">March 2018 - October 2018</span>  
   
