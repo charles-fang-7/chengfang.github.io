@@ -3,6 +3,7 @@ layout: archive
 title: "Cheng FANG"
 permalink: /cv/
 author_profile: true
+paperurl: 'http://charles-fang-7.github.io/files/CV-Cheng-7.pdf'
 redirect_from:
   - /resume
 ---
