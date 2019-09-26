@@ -26,10 +26,10 @@ Research experiences
 * **Preparation and Characterization of Na0.5Bi0.5TiO3 Nanocubes**, *supervised by [Professor Yiping Guo](http://en.smse.sjtu.edu.cn/people/detail.aspx?id=159&cid=72057594037927936)*  
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
 <span style="float: right; ">October 2018 - January 2019</span>  
-  1. Prepared morphology-controlled nanocubes via hydrothermal process, oleic acid as the surfactant.  
-  2. Nanocubes with side length of 300nm were synthesized and perform a uniform dispersity in toluene. Due to the capillary effect, these nanocubes can self-assemble on the FTO by the dipping process.  
-  3. Analyzed nanocube products via XRD and SEM, which indicated the pure NBT product.  
-  4. Via piezoelectric /photoelectric catalysis process (to degrade Rhodamine solution), the material offered good catalytic performance and Rhodamine gets a ~95% degradation after a 3-hour-experiment. The dielectric constant was about 300.
+1. Prepared morphology-controlled nanocubes via hydrothermal process, oleic acid as the surfactant.  
+2. Nanocubes with side length of 300nm were synthesized and perform a uniform dispersity in toluene. Due to the capillary effect, these nanocubes can self-assemble on the FTO by the dipping process.  
+3. Analyzed nanocube products via XRD and SEM, which indicated the pure NBT product.  
+4. Via piezoelectric /photoelectric catalysis process (to degrade Rhodamine solution), the material offered good catalytic performance and Rhodamine gets a ~95% degradation after a 3-hour-experiment. The dielectric constant was about 300.
 
   
   
