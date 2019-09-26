@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
 
 
-Research experiences
+# Research experiences
 ======
 * **Preparation of Nano-casting Molybdenum Phosphide Mesoporous Material**, *supervised by [Professor Peng ZHANG](http://en.smse.sjtu.edu.cn/people/detail.aspx?id=102&cid=72057594037927936)*  
 <span style="float: left; font-size: 3.5;">**Research Assistant** *at Shanghai Jiao Tong University*</span>
@@ -42,7 +42,7 @@ Research experiences
   3. EDS pattern indicated the anodized coating impeded the incursion of Na and Cl ions into the composite substrate, thus the composite maintained good mechanical properties.  
   
   
-Leadership and Activities
+# Leadership and Activities
 ======
 * **SJTU Inspiration Forum Committee** | *Deputy Director in HR Center*
 <span style="float: right; ">October 2016 - Decenmber 2018</span>  
@@ -50,7 +50,7 @@ Leadership and Activities
   - Organized over 20 lectures, invited over 30 celebrities, like Professor Norman Christ, Professor Xuhua Huang, to share their life experiences and great research achievements.
 
   
-Skills 
+# Skills 
 ======
 * **Experimental skills:** XRD analysis (proficient), SEM & TEM analysis (okay) 
 * **Computer Skills:** Word, Excel, PPT and Origin (proficient); Adobe Photoshop, Python, Matlab (okay).
