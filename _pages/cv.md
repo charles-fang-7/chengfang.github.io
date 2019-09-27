@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<ion-icon name="cloud-download"></ion-icon>[Download my latest CV]({{ site.baseurl }}{% link /files/CV-Cheng-0926.pdf %})
+<ion-icon name="md-cloud-download"></ion-icon>[Download my latest CV]({{ site.baseurl }}{% link /files/CV-Cheng-0926.pdf %})
 
 # Education
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
