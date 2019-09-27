@@ -245,6 +245,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  #docs
+  - scope:
+      path: "files"
+    values:
+      pdf: true
 
 # Sass/SCSS
 sass:
