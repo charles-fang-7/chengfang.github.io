@@ -9,12 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-{% assign pdf_files = site.files | where: "pdf", true %}
-{% for mypdf in pdf_files %}
-  {{ mypdf.path }}
-{% endfor %}
 
-[Download my latest CV]({{ site.files }}{% link /files/CV-Cheng-0926.pdf %})
+[Download my latest CV]({{ site.baseurl }}{% link /files/CV-Cheng-0926.pdf %})
 
 # Education
 * B.S. in Materials Science and Engineering, Shanghai Jiao Tong University, 2016
