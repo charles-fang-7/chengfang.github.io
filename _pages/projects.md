@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 redirect_from: 
   - /md/
-  - /projects.html
+  - /markdown.html
 ---
 
 ## Research Projects  
